@@ -42,6 +42,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define TAPPING_TOGGLE  1
 
+#define QMK_KEYS_PER_SCAN 8
+
 /* define if matrix has ghost */
 //#define MATRIX_HAS_GHOST
 
